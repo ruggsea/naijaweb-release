@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+train/bins/
+data/heldout/
+data/final/
+smoke/out/
+.venv/
+models/
+logs/
+data/matched/
+data/dedup_filtered/
+data/rescrape_seeds.tsv
+results/*
+!results/.gitkeep

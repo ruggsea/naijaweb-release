@@ -1,0 +1,3 @@
+data/hau_Latn/train/000_00000.parquet
+data/ibo_Latn/train/000_00000.parquet
+data/yor_Latn/train/000_00000.parquet
